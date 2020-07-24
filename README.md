@@ -19,7 +19,10 @@ There are existing Keras Models that learn this task and it is taught in an NLP 
 
 This is a PyTorch version thae feels a bit more natural for all the great reasons (I won't elaboraet therm here).
 
+### The Date Conversion Model
+
 ![model](visuals/model.png)
 
+### The Attention Building-Block
 
 ![attention mechanism](visuals/attn-mechanism.png)
