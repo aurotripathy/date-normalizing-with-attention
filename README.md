@@ -4,7 +4,7 @@ Takes a human generated date and normalizes it into an machine-readable date.
 
 You can run it like so:
 
- `python lstm-normalize-date-w-attn.py -m eval</code>`
+ `python lstm-normalize-date-w-attn.py -m eval`
 
 The output will look llike this:
 
