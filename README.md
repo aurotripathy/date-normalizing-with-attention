@@ -17,7 +17,7 @@ Predicted Machine Date: 2003-01-06 Actual Machine Date: 2003-01-06 matches
 
 There are existing Keras Models that learn this task and it is taught in an NLP Coursera Course on sequence Learning. 
 
-This is a PyTorch version thae feels a bit more natural for all the great reasons (I won't elaboraet therm here).
+This is a PyTorch version that feels a bit more natural for all the great reasons (I won't elaborate therm here).
 
 ### The Date Conversion Model
 
