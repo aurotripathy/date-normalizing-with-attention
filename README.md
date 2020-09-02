@@ -6,7 +6,7 @@ You can run it like so:
 
  `python lstm-normalize-date-w-attn.py -m eval`
 
-The output will look llike this:
+The output will look like this:
 
 ```
 Input Human Date: friday january 4 2013
